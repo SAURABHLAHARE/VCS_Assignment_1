@@ -27,21 +27,3 @@ public class One_1a{
         }
     }
 }
-
-//OUTPUT:
-/*Enter First Number:22
- Enter Second Number:1
- Enter Third Number:8
- 22 is the greatest number among all.
-
-  Enter First Number:55
- Enter Second Number:20
- Enter Third Number:45
- 55 is the greatest number among all.
-
-
-  Enter First Number:8
-  Enter Second Number:8
-  Enter Third Number:8
-  All numbers are either equal or not distinct. Please enter different numbers.
-*/
