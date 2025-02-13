@@ -1,6 +1,5 @@
 //PROGRAM A: Read the three numbers from the user and display the greatest among these three.
 //ROLL NO: 01 ,  NAME: LAHARE SAURABH
-//LOGIC  : if one number is greater than remaining two numbers then that number is the greatest number among all these three numbers.
 
 import java.util.Scanner;
 public class One_1a{
